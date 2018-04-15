@@ -1,4 +1,4 @@
-total 16
--rw-r--r--  1 qinmoujie  staff  27 Apr 15 16:09 README.md
--rw-r--r--  1 qinmoujie  staff   0 Apr 15 16:21 pullfile
--rw-r--r--  1 qinmoujie  staff  16 Apr 15 16:10 testfile
+README.md
+fetchfile
+pullfile
+testfile
